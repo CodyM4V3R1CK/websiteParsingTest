@@ -1,4 +1,5 @@
 import requests
+from bs4 import BeautifulSoup
 
 URL = "https://www.prospektmaschine.de/hypermarkte/"
 HEADERS = {
