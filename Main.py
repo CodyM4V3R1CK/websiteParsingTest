@@ -29,7 +29,6 @@ def parse_date_range(text):
 
 # Main scraping logic
 def fetch_leaflets():
-    # Fetches leaflets from the website and stores them in a list of dictionaries.
     response = requests.get(URL, headers=HEADERS)
     if not response.ok:
         print("Failed to fetch the page. Check the URL or headers!")
