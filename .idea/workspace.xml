@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd634251-8250-4efe-9298-4e0f1a335f0a" name="Changes" comment="finished product">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dd634251-8250-4efe-9298-4e0f1a335f0a" name="Changes" comment="removed unnecessary file">
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leaflets.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741858937679</updated>
       <workItem from="1741858938681" duration="6000" />
-      <workItem from="1741859504659" duration="3652000" />
+      <workItem from="1741859504659" duration="3912000" />
     </task>
     <task id="LOCAL-00001" summary="smol change">
       <option name="closed" value="true" />
@@ -120,7 +118,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741862458700</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="improved visual look + added comments">
+      <option name="closed" value="true" />
+      <created>1741863303567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741863303567</updated>
+    </task>
+    <task id="LOCAL-00007" summary="improved visual look + added comments">
+      <option name="closed" value="true" />
+      <created>1741863309193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741863309193</updated>
+    </task>
+    <task id="LOCAL-00008" summary="removed unnecessary file">
+      <option name="closed" value="true" />
+      <created>1741863350959</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741863350959</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +164,9 @@
     <MESSAGE value="reading a website" />
     <MESSAGE value="import bs4" />
     <MESSAGE value="finished product" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished product" />
+    <MESSAGE value="improved visual look + added comments" />
+    <MESSAGE value="removed unnecessary file" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hyperia$sample.coverage" NAME="sample Coverage Results" MODIFIED="1741859546990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

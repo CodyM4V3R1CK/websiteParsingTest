@@ -66,9 +66,8 @@ def fetch_leaflets():
 
             # Append leaflet data to the list
             leaflets.append({
-                "title": "Prospekt",
-                "thumbnail": thumbnail,
                 "shop_name": shop_name,
+                "thumbnail": thumbnail,
                 "valid_from": valid_from,
                 "valid_to": valid_to,
                 "parsed_time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
